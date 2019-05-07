@@ -1,0 +1,6 @@
+"Water"
+{
+	"$basetexture" "hmap/hmap_wepselecticon"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}
